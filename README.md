@@ -1,0 +1,2 @@
+# python-
+class 1
